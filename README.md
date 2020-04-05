@@ -1,4 +1,4 @@
-# personal-projects
+# 3D Pulsar Plot
 
 
 # What is this project?
